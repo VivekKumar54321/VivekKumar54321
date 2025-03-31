@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @VivekKumar54321
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning ASP.NET Core 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vivekkumarnxt@gmail.com
+👋 Hi, I'm Vivek Thakur!
+💻 Mid-Level .NET Developer | Aspiring Full-Stack Developer
+
+📍 Location: Janakpur, Nepal
+✉️ Email: vivekkumarnxt@gmail.com
+
+🚀 Currently Learning: Angular & React.js (Frontend)
+💡 Interests: Expanding my frontend skills to become a full-stack developer
+
+Let's connect and build something great! 🚀
 
 <!---
 VivekKumar54321/VivekKumar54321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
